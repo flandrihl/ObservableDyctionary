@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BaseTypes</id>
+    <version>1.0.0</version>
+    <title>Custom base types</title>
+    <authors>BaseTypes</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <icon>Dictionary.png</icon>
+    <description>Custom base types</description>
+    <releaseNotes>Create base type ObservableDyctionary.</releaseNotes>
+    <copyright>Copyright © 2023</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework="net6.0" />
+      <group targetFramework="net7.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net45/books.ico" buildAction="Content" />
+      <files include="any/net461/books.ico" buildAction="Content" />
+      <files include="any/net472/books.ico" buildAction="Content" />
+      <files include="any/net48/books.ico" buildAction="Content" />
+      <files include="any/net6.0/books.ico" buildAction="Content" />
+      <files include="any/net7.0/books.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net45\BaseTypes.dll" target="lib\net45\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net461\BaseTypes.dll" target="lib\net461\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net472\BaseTypes.dll" target="lib\net472\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net48\BaseTypes.dll" target="lib\net48\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net6.0\BaseTypes.dll" target="lib\net6.0\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net7.0\BaseTypes.dll" target="lib\net7.0\BaseTypes.dll" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="content\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net45\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net461\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net472\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net48\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net6.0\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\books.ico" target="contentFiles\any\net7.0\books.ico" />
+    <file src="D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\Dictionary.png" target="\Dictionary.png" />
+  </files>
+</package>

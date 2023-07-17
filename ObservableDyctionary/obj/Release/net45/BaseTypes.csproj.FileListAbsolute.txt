@@ -1,0 +1,9 @@
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.csproj.AssemblyReference.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.AssemblyInfoInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.AssemblyInfo.cs
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.csproj.CoreCompileInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net45\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Release\net45\BaseTypes.pdb
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Release\net45\BaseTypes.pdb

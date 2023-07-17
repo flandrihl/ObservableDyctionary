@@ -1,0 +1,12 @@
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.csproj.AssemblyReference.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.AssemblyInfoInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.AssemblyInfo.cs
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.csproj.CoreCompileInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Debug\net6.0\BaseTypes.deps.json
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Debug\net6.0\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Debug\net6.0\BaseTypes.pdb
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\refint\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\BaseTypes.pdb
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net6.0\ref\BaseTypes.dll

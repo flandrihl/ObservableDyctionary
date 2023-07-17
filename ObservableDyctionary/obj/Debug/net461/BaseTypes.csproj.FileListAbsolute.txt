@@ -1,0 +1,9 @@
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.csproj.AssemblyReference.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.AssemblyInfoInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.AssemblyInfo.cs
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.csproj.CoreCompileInputs.cache
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Debug\net461\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\bin\Debug\net461\BaseTypes.pdb
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.dll
+D:\Work\Наработки\ObservableDyctionary\ObservableDyctionary\obj\Debug\net461\BaseTypes.pdb
