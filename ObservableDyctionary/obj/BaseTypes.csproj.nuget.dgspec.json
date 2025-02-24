@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Наработки\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj": {}
+    "D:\\Docs\\GitHub\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Наработки\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj": {
-      "version": "1.0.0.2",
+    "D:\\Docs\\GitHub\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj": {
+      "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Наработки\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj",
+        "projectUniqueName": "D:\\Docs\\GitHub\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj",
         "projectName": "BaseTypes",
-        "projectPath": "D:\\Work\\Наработки\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj",
+        "projectPath": "D:\\Docs\\GitHub\\ObservableDyctionary\\ObservableDyctionary\\BaseTypes.csproj",
         "packagesPath": "C:\\Users\\konopelko\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Наработки\\ObservableDyctionary\\ObservableDyctionary\\obj\\",
+        "outputPath": "D:\\Docs\\GitHub\\ObservableDyctionary\\ObservableDyctionary\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -25,42 +25,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net45",
-          "net461",
-          "net472",
-          "net48",
-          "net6.0",
-          "net7.0"
+          "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "\\\\192.168.1.4\\programmers\\Nuget": {},
+          "\\\\fs\\programmers$\\Nuget\\packages\\": {},
           "d:\\NuGet Galery\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          },
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          },
-          "net45": {
-            "targetAlias": "net45",
-            "projectReferences": {}
-          },
-          "net461": {
-            "targetAlias": "net461",
-            "projectReferences": {}
-          },
-          "net472": {
-            "targetAlias": "net472",
-            "projectReferences": {}
-          },
-          "net48": {
-            "targetAlias": "net48",
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -68,11 +44,25 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -84,48 +74,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
-        },
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
-        },
-        "net45": {
-          "targetAlias": "net45",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
-        },
-        "net461": {
-          "targetAlias": "net461",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
-        },
-        "net472": {
-          "targetAlias": "net472",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
-        },
-        "net48": {
-          "targetAlias": "net48",
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
