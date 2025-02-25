@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace BaseTypes
 {
-
     public class NotifyKeyValueChangedEventArgs<TKey, TValue>(NotifyKeyValueChangeAction action) : EventArgs
     {
         public NotifyKeyValueChangeAction Action { get; } = action;
